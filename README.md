@@ -107,4 +107,8 @@ All the models can be found in the models directory created using mongoose.
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2023 © [Ali Nour](https://github.com/alin00r)
+- Copyright 2023 © - MIT License
+- [Ali Nour](https://github.com/alin00r)
+- [karem hamed](https://github.com/karemhamed)
+- [Albassel Abobakr](https://github.com/Bassel-11)
+- [Mohammed Mostafa](https://github.com/mohammedd20)
